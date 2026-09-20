@@ -1,6 +1,6 @@
 # 실험 후 레포트: LAB1-07 1:8 디멀티플렉서
 
-작성자: 엄상혁 (학번 ______) / 조: g조 / 실험일: 2026-09-14 / 소스 커밋: `7d89e2b` (https://github.com/dhawldnjs010-star/lab1_07_demux_1x8/commit/7d89e2bb86940d3a26fb05ab34fb946173bf776d) / 구현 도구·버전: Vivado 2026.1 (Build 6511674) / part: xc7s75fgga484-1 / top: `demux_1x8` (시뮬레이션 top `tb_demux_1x8`) / XDC: `constraints/pins.xdc`
+작성자: 엄상혁 (학번 2025440084) / 조: g조 / 실험일: 2026-09-14 / 소스 커밋: `7d89e2b` (https://github.com/dhawldnjs010-star/lab1_07_demux_1x8/commit/7d89e2bb86940d3a26fb05ab34fb946173bf776d) / 구현 도구·버전: Vivado 2026.1 (Build 6511674) / part: xc7s75fgga484-1 / top: `demux_1x8` (시뮬레이션 top `tb_demux_1x8`) / XDC: `constraints/pins.xdc`
 
 경로: Vivado 경로로 수행했다.
 
@@ -46,7 +46,7 @@
 
 - Hardware Manager 콘솔에서 `program_hw_devices`가 2회 실행되었다.
 
-- 배선·입력·출력이 보이는 영상: `evidence/board/videos/20260914_172207.mp4` (2026-09-14 17:22:07 촬영).
+- 배선·입력·출력이 보이는 영상: [Google Drive 폴더](https://drive.google.com/drive/folders/1Jg3ZPkCXTq1_Li49iN5_NoNJZpcYiskp)의 `20260914_172207.mp4` (2026-09-14 17:22:07 촬영).
 
 
 | 조건 | 예상 출력 | 실측 출력 | 사진/영상 시각 | 일치 여부·원인 |
@@ -81,4 +81,4 @@
 
 ## 제출 링크
 
-소스 커밋: https://github.com/dhawldnjs010-star/lab1_07_demux_1x8/commit/7d89e2bb86940d3a26fb05ab34fb946173bf776d / 실험 전 레포트: `reports/pre/lab1_07_pre_report.md` / 로그·VCD: `evidence/simulation.txt`, `evidence/wave.vcd`, `evidence/vivado/` / bit·해시: 위 3절 (SHA-256 `0446b6642e79e0ee2919a6a5305a11607a386cce7d550d2fd8aa3ac252a355b6`) / 영상: `evidence/board/videos/20260914_172207.mp4` / GitHub에서 링크 확인한 날짜: ______
+소스 커밋: https://github.com/dhawldnjs010-star/lab1_07_demux_1x8/commit/7d89e2bb86940d3a26fb05ab34fb946173bf776d / 실험 전 레포트: `reports/pre/lab1_07_pre_report.md` / 로그·VCD: `evidence/simulation.txt`, `evidence/wave.vcd`, `evidence/vivado/` / bit·해시: 위 3절 (SHA-256 `0446b6642e79e0ee2919a6a5305a11607a386cce7d550d2fd8aa3ac252a355b6`) / 영상: https://drive.google.com/drive/folders/1Jg3ZPkCXTq1_Li49iN5_NoNJZpcYiskp (`20260914_172207.mp4`) / GitHub에서 링크 확인한 날짜: ______
